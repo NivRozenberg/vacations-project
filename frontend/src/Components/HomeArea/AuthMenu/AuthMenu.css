@@ -1,0 +1,11 @@
+.AuthMenu {
+    position: fixed;
+    right: 10px;
+    top: 10px;
+}
+
+.AuthMenu2 {
+    position: fixed;
+    left: 10px;
+    top: 10px;
+}
